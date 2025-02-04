@@ -11,9 +11,10 @@ While it may seem simple, replicating such a widely recognized UI really helped 
 
 📂 Tech Stack:
 
-HTML5
-CSS3
-Media Queries for responsive design
+--> HTML5
+--> CSS3
+--> Media Queries for responsive design
+
 Next up, I’m thinking of adding some JavaScript for form validation and interactive features! 🚀
 
 Feel free to check out the live preview: https://faceb00ks.netlify.app/
